@@ -1,0 +1,70 @@
+ @import "tailwindcss";
+ 
+ body{
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .sliderarrow{
+     transition: all 0.2s ease;
+     
+ }
+ .sliderarrow:hover{
+    background-image: url(./assets//images/twozingers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-position: center;
+  /* background-repeat: no-repeat; */
+ }
+ 
+ .sliderone{
+      background-image: url(./assets//images/twozingers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-position: center;
+ }
+  .slidertwo{
+      background-image: url(./assets//images/wimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-position: center;
+ }
+
+ .hero-main-two{
+      background-image: url(./assets//images/bgbg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-position: center;
+      /* background-attachment: fixed; */
+ }
+ .hero-four{
+     background-image: url(./assets//images/blacks.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+ }
+ .hero-five{
+      background-image: url(./assets//images/trans.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-position: center;
+      /* background-attachment: fixed; */
+ }
+ .hero-main-nine{
+      background-image: url(./assets//images/ban.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-position: center;
+ }
+ .mainmenu-hero{
+        background-image: url(./assets//images/menu03.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-position: center;
+ }
+ .prefooter{
+      background-image: url(./assets//images/menu19.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-position: center;
+
+ }
