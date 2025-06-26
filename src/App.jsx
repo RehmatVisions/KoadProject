@@ -19,7 +19,7 @@ const App = () => {
       {/* <News/> */}
       {/* <Contact/> */}
 
-      <BrowserRouter >
+      <BrowserRouter basename="/KoadProject" >
        <Routes>
        
         <Route path="/" element={<Home />} />
